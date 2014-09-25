@@ -1,0 +1,5 @@
+{
+    "description": "Mirror from git.typo3.org  https:\/\/git.typo3.org\/TYPO3CMS\/Extensions\/simpleprovider",
+    "installpath": "typo3conf\/ext\/simpleprovider",
+    "repository": "https:\/\/github.com\/TYPO3-extensions\/simpleprovider.git"
+}

@@ -1,0 +1,5 @@
+{
+    "description": "Mirror from git.typo3.org",
+    "installpath": "typo3conf\/ext\/templavoila_files",
+    "repository": "https:\/\/github.com\/TYPO3-extensions\/templavoila_files.git"
+}

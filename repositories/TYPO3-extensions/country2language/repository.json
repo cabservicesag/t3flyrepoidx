@@ -1,0 +1,5 @@
+{
+    "description": "Mirror from git.typo3.org",
+    "installpath": "typo3conf\/ext\/country2language",
+    "repository": "https:\/\/github.com\/TYPO3-extensions\/country2language.git"
+}

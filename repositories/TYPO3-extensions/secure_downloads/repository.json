@@ -1,0 +1,5 @@
+{
+    "description": "Mirror from git.typo3.org",
+    "installpath": "typo3conf\/ext\/secure_downloads",
+    "repository": "https:\/\/github.com\/TYPO3-extensions\/secure_downloads.git"
+}

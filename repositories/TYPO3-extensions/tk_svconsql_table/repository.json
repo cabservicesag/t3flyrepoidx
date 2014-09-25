@@ -1,0 +1,5 @@
+{
+    "description": "Mirror from git.typo3.org",
+    "installpath": "typo3conf\/ext\/tk_svconsql_table",
+    "repository": "https:\/\/github.com\/TYPO3-extensions\/tk_svconsql_table.git"
+}

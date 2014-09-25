@@ -1,0 +1,5 @@
+{
+    "description": "Mirror from git.typo3.org",
+    "installpath": "typo3conf\/ext\/cps_tcatree",
+    "repository": "https:\/\/github.com\/TYPO3-extensions\/cps_tcatree.git"
+}

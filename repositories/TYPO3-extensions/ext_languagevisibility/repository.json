@@ -1,0 +1,5 @@
+{
+    "description": "Mirror from git.typo3.org",
+    "installpath": "typo3conf\/ext\/ext_languagevisibility",
+    "repository": "https:\/\/github.com\/TYPO3-extensions\/ext_languagevisibility.git"
+}

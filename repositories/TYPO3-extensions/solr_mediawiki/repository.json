@@ -1,0 +1,5 @@
+{
+    "description": "Mirror from git.typo3.org",
+    "installpath": "typo3conf\/ext\/solr_mediawiki",
+    "repository": "https:\/\/github.com\/TYPO3-extensions\/solr_mediawiki.git"
+}

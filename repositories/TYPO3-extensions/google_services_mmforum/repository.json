@@ -1,0 +1,5 @@
+{
+    "description": "Mirror from git.typo3.org",
+    "installpath": "typo3conf\/ext\/google_services_mmforum",
+    "repository": "https:\/\/github.com\/TYPO3-extensions\/google_services_mmforum.git"
+}
